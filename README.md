@@ -1,5 +1,5 @@
-# KPN-Sales-Operations-Analytics-project-using-Excel
-I built an end-to-end Sales &amp; Operations Analytics solution in Excel to understand revenue performance, customer behaviour, marketing effectiveness, delivery operations and customer experience.
+# KPN Business Analytics
+Developed an interactive KPN Business Analytics Dashboard in Microsoft Excel to analyze Sales & Revenue, Customer & Feedback, Delivery & Operations, and Inventory & Marketing performance. Used Power Query for data cleaning and transformation, Power Pivot for data modeling and creating relationships, and Pivot Charts, Slicers, and interactive filters to build dynamic business dashboards.
 
 📌 What I built
 
@@ -16,3 +16,17 @@ In this project, I analysed multiple business areas using Excel:
 ⭐ Customer Experience – Ratings, sentiment & feedback analysis
 
 📦 Product Analytics – Category and product-level performance
+
+⚙️ Key Features
+
+Cleaned and transformed raw data using Power Query
+
+Built a structured data model using Power Pivot
+
+Created relationships between multiple datasets
+
+Designed interactive dashboards using Pivot Tables and Pivot Charts
+
+Used slicers and filters for dynamic analysis
+
+Created KPI cards to track important business metrics
