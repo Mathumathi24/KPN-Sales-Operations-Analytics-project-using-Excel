@@ -6,8 +6,6 @@ This project is an end-to-end **KPN Sales & Operations Analytics project built u
 
 The objective is to analyse sales, customers, marketing, delivery operations, products, inventory, and customer feedback to identify meaningful business insights and support data-driven decision-making.
 
-> **Note:** This is a portfolio project created using a simulated dataset for learning and demonstration purposes. It does not represent Blinkit's actual internal business data.
-
 ---
 
 ## Business Objectives
