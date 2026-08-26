@@ -1,8 +1,8 @@
-# KPN Sales & Operations Analytics 📊
+# Blinkit Sales & Operations Analytics 📊
 
 ## Project Overview
 
-This project is an end-to-end **KPN Sales & Operations Analytics project built using Microsoft Excel**.
+This project is an end-to-end **Blinkit Sales & Operations Analytics project built using Microsoft Excel**.
 
 The objective is to analyse sales, customers, marketing, delivery operations, products, inventory, and customer feedback to identify meaningful business insights and support data-driven decision-making.
 
